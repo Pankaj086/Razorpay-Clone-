@@ -1,3 +1,3 @@
 # Razorpay-Clone
 
-Deployment-Link : https://razorpay-clone-ten-tawny.vercel.app
+[Deployment Link](https://papaya-cranachan-e4549b.netlify.app)
